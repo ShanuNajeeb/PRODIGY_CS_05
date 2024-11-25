@@ -1,4 +1,4 @@
-### Packet Analyzer Tool with Tkinter GUI
+# Packet Analyzer Tool with Tkinter GUI
 
 This Python script implements a **Network Packet Analyzer** with a graphical user interface (GUI) built using `tkinter`. It captures network packets using the `scapy` library and displays key details like source and destination IP, protocol, and payload.
 
